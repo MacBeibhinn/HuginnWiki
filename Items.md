@@ -7,5 +7,8 @@ Primarily used for fishing with the `fish` command, can be sold, bought, and giv
 # Fishing Net
 Primarily used for fishing with the `fish` command, can be sold, bought, and given. Does not break as often as the `fishing rod`, but can still break, owning more of these can provide you with increased reward but may potentially lead to you losing more nets. See `shop` for the price.
 
+# Axe
+Primarily used for chopping wood with the `chop` command, can be sold, bought, crafted, and given. These makeshift axes are not strong and will eventually break, owning more of these can provide you with increased reward but may potentially lead to you losing more axes. See `shop` for the price.
+
 # Mead Of Poetry
 This item is rare, and can only be obtained through rewards and rare encounters. Huginn is addicted to Mead Of Poetry, and will take it from you automatically when you buy your next item, this will result in you receiving a discount from him. This item can alternatively be sold or given to another user.
