@@ -8,10 +8,10 @@ Primarily used for fishing with the `fish` command, can `sell`, `buy`, or `give-
 Primarily used for fishing with the `fish` command, can `sell`, `buy`, or `give-item` this item. Does not break as often as the `fishing rod`, but can still break, owning more of these can provide you with increased reward but may potentially lead to you losing more nets.
 
 # Axes
-Primarily used for chopping wood with the `chop` command, can `sell`, `buy`, `craft`, or `give-item` this item. These makeshift axes are not strong and will eventually break, owning more of these can provide you with increased reward but may potentially lead to you losing more axes.
+Primarily used for chopping wood with the `chop` command, can `sell`, `buy`, `craft`, or `give-item` this item. These makeshift axes are not strong and will eventually break, owning more of these can provide you with increased reward but may potentially lead to you losing more axes. To create this item using `craft` you must have at least 1 iron and 1 wood.
 
 # Pickaxes
-Primarily used for mining ore with the `mine` command, can `sell`, `buy`, `craft`, or `give-item` this item. These makeshift pickaxes are not strong and will eventually break, owning more of these can provide you with increased reward but may potentially lead to you losing more pickaxes.
+Primarily used for mining ore with the `mine` command, can `sell`, `buy`, `craft`, or `give-item` this item. These makeshift pickaxes are not strong and will eventually break, owning more of these can provide you with increased reward but may potentially lead to you losing more pickaxes. To create this item using `craft` you must have at least 1 iron and 1 wood.
 
 # Mead Of Poetry
 This item is rare, and can only be obtained through rewards and rare encounters, such as `daily` and `adventure`. Huginn is addicted to Mead Of Poetry, and will take it from you automatically when you buy your next item, this will result in you receiving a discount from him. This item can alternatively be sold with `sell` or given to another user with `give-item`.
